@@ -1,2 +1,3 @@
-# dea-loker
+#loker
  
+DEATRISYA MIRELA HARAHAP
